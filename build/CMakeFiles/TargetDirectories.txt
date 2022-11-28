@@ -1,0 +1,3 @@
+C:/Users/dan/Documents/GitHub/symmetry_detector/build/CMakeFiles/detect.dir
+C:/Users/dan/Documents/GitHub/symmetry_detector/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dan/Documents/GitHub/symmetry_detector/build/CMakeFiles/ZERO_CHECK.dir

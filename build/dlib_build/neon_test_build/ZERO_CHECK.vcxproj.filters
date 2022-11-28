@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dan\Documents\GitHub\symmetry_detector\build\dlib_build\neon_test_build\CMakeFiles\f9028dba5be37353f2c3785ef4181b3b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{28E58EEE-99B2-3C19-9212-BF4EF0EF0C81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

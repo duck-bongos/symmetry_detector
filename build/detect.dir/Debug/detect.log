@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/dan/Documents/GitHub/symmetry_detector/CMakeLists.txt
+  main.cc
+main.obj : error LNK2001: unresolved external symbol USER_ERROR__inconsistent_build_configuration__see_dlib_faq_1
+main.obj : error LNK2001: unresolved external symbol USER_ERROR__inconsistent_build_configuration__see_dlib_faq_2
+C:\Users\dan\Documents\GitHub\symmetry_detector\build\Debug\detect.exe : fatal error LNK1120: 2 unresolved externals

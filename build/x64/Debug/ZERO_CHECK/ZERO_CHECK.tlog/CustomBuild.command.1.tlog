@@ -1,0 +1,10 @@
+^C:\USERS\DAN\DOCUMENTS\GITHUB\SYMMETRY_DETECTOR\BUILD\CMAKEFILES\6481EAC1CBF3732C00A1E674A8FC9718\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dan/Documents/GitHub/symmetry_detector -BC:/Users/dan/Documents/GitHub/symmetry_detector/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dan/Documents/GitHub/symmetry_detector/build/symmetry_detector.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
